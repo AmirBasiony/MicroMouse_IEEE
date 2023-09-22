@@ -30,4 +30,4 @@ In retrospect, this project serves as a valuable learning experience, highlighti
 This project exemplifies our dedication to developing a comprehensive and innovative solution for maze-solving, showcasing our proficiency in both hardware and software design. We are grateful for the opportunity to have participated in the IEEE VICTORIS tournament and look forward to future challenges in the field of robotics and automation.
 
 
-## Certificate ![image](https://github.com/AmirBasiony/MicroMouse_IEEE/blob/main/IEEE%20VICTORIS%20Certificate.jpg)
+## IEEE VICTORIS Certificate ![image](https://github.com/AmirBasiony/MicroMouse_IEEE/blob/main/IEEE%20VICTORIS%20Certificate.jpg)
